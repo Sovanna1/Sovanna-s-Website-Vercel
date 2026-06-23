@@ -1,0 +1,6 @@
+{
+  "name": "Google Classroom Assignment Tracker",
+  "description": "An interactive dashboard that connects to Google Classroom, displays coursework, and synchronizes peer rosters and Google Contacts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

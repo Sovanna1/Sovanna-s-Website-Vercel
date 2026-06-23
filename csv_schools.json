@@ -1,0 +1,703 @@
+[
+  [
+    "university-of-florida",
+    {
+      "lat": 29.643946,
+      "lng": -82.355659,
+      "names": [
+        "University of Florida"
+      ]
+    }
+  ],
+  [
+    "the-university-of-hong-kong",
+    {
+      "lat": 22.284254,
+      "lng": 114.1381,
+      "names": [
+        "The University of Hong Kong"
+      ]
+    }
+  ],
+  [
+    "new-york-university-of-abu-dhabi",
+    {
+      "lat": 24.524,
+      "lng": 54.434,
+      "names": [
+        "New York University of Abu Dhabi"
+      ]
+    }
+  ],
+  [
+    "colgate-university",
+    {
+      "lat": 42.818816,
+      "lng": -75.541434,
+      "names": [
+        "Colgate University"
+      ]
+    }
+  ],
+  [
+    "dartmouth-college",
+    {
+      "lat": 43.70454,
+      "lng": -72.288986,
+      "names": [
+        "Dartmouth College"
+      ]
+    }
+  ],
+  [
+    "bucknell-university",
+    {
+      "lat": 40.954756,
+      "lng": -76.881389,
+      "names": [
+        "Bucknell University"
+      ]
+    }
+  ],
+  [
+    "bryn-mawr-college",
+    {
+      "lat": 40.027435,
+      "lng": -75.313881,
+      "names": [
+        "Bryn Mawr College"
+      ]
+    }
+  ],
+  [
+    "reed-college",
+    {
+      "lat": 45.481541,
+      "lng": -122.631853,
+      "names": [
+        "Reed College"
+      ]
+    }
+  ],
+  [
+    "lehigh-university",
+    {
+      "lat": 40.606803,
+      "lng": -75.378249,
+      "names": [
+        "Lehigh University"
+      ]
+    }
+  ],
+  [
+    "claremont-mckenna-college",
+    {
+      "lat": 34.101736,
+      "lng": -117.70701,
+      "names": [
+        "Claremont McKenna College"
+      ]
+    }
+  ],
+  [
+    "the-university-of-chicago",
+    {
+      "lat": 41.789722,
+      "lng": -87.599724,
+      "names": [
+        "The University of Chicago"
+      ]
+    }
+  ],
+  [
+    "berea-college",
+    {
+      "lat": 37.571932,
+      "lng": -84.289061,
+      "names": [
+        "Berea College"
+      ]
+    }
+  ],
+  [
+    "middlebury-college",
+    {
+      "lat": 44.010141,
+      "lng": -73.175402,
+      "names": [
+        "Middlebury College"
+      ]
+    }
+  ],
+  [
+    "rhodes-college",
+    {
+      "lat": 35.153924,
+      "lng": -89.989255,
+      "names": [
+        "Rhodes College"
+      ]
+    }
+  ],
+  [
+    "scripps-college",
+    {
+      "lat": 34.1038,
+      "lng": -117.7101,
+      "names": [
+        "Scripps College"
+      ]
+    }
+  ],
+  [
+    "massachusetts-institute-of-technology",
+    {
+      "lat": 42.360001,
+      "lng": -71.092003,
+      "names": [
+        "Massachusetts Institute of Technology"
+      ]
+    }
+  ],
+  [
+    "whitman-college",
+    {
+      "lat": 46.071201,
+      "lng": -118.330101,
+      "names": [
+        "Whitman College"
+      ]
+    }
+  ],
+  [
+    "wabash-college",
+    {
+      "lat": 40.044075,
+      "lng": -86.911057,
+      "names": [
+        "Wabash College"
+      ]
+    }
+  ],
+  [
+    "kenyon-college",
+    {
+      "lat": 40.372131,
+      "lng": -82.397686,
+      "names": [
+        "Kenyon College"
+      ]
+    }
+  ],
+  [
+    "harvard-university",
+    {
+      "lat": 42.374443,
+      "lng": -71.116943,
+      "names": [
+        "Harvard University"
+      ]
+    }
+  ],
+  [
+    "northwestern-university",
+    {
+      "lat": 42.0531,
+      "lng": -87.408503,
+      "names": [
+        "Northwestern University"
+      ]
+    }
+  ],
+  [
+    "american-university-of-phnom-penh",
+    {
+      "lat": 11.61522,
+      "lng": 104.90151,
+      "names": [
+        "American University of Phnom Penh"
+      ]
+    }
+  ],
+  [
+    "cambodia-university-of-technology-and-science",
+    {
+      "lat": 11.639722,
+      "lng": 104.931667,
+      "names": [
+        "Cambodia University of Technology and Science"
+      ]
+    }
+  ],
+  [
+    "connecticut-college",
+    {
+      "lat": 41.379339,
+      "lng": -72.103567,
+      "names": [
+        "Connecticut College"
+      ]
+    }
+  ],
+  [
+    "pearson-college-uwc",
+    {
+      "lat": 48.3114,
+      "lng": -123.5585,
+      "names": [
+        "Pearson College United World College"
+      ]
+    }
+  ],
+  [
+    "uwc-south-east-asia",
+    {
+      "lat": 1.303224463,
+      "lng": 103.7731,
+      "names": [
+        "United World College South East Asia"
+      ]
+    }
+  ],
+  [
+    "aiglon-college",
+    {
+      "lat": 46.30255,
+      "lng": 7.04702,
+      "names": [
+        "Aiglon College"
+      ]
+    }
+  ],
+  [
+    "elon-university",
+    {
+      "lat": 36.097135,
+      "lng": -79.512102,
+      "names": [
+        "Elon University"
+      ]
+    }
+  ],
+  [
+    "diablo-valley-college",
+    {
+      "lat": 37.9695,
+      "lng": -122.0687,
+      "names": [
+        "Diablo Valley College"
+      ]
+    }
+  ],
+  [
+    "gettysburg-college",
+    {
+      "lat": 39.834,
+      "lng": -77.236,
+      "names": [
+        "Gettysburg College"
+      ]
+    }
+  ],
+  [
+    "beloit",
+    {
+      "lat": 45.50835,
+      "lng": -89.03178,
+      "names": [
+        "Beloit College"
+      ]
+    }
+  ],
+  [
+    "emma-willard-school",
+    {
+      "lat": 42.712555,
+      "lng": -73.666084,
+      "names": [
+        "Emma Willard School"
+      ]
+    }
+  ],
+  [
+    "phillips-academy-andover",
+    {
+      "lat": 42.64722,
+      "lng": -71.13167,
+      "names": [
+        "Phillips Academy Andover"
+      ]
+    }
+  ],
+  [
+    "phillips-exeter-academy",
+    {
+      "lat": 42.9813889,
+      "lng": -70.9483333,
+      "names": [
+        "Phillips Exeter Academy"
+      ]
+    }
+  ],
+  [
+    "the-bishop-strachan-school",
+    {
+      "lat": 43.690466,
+      "lng": -79.408981,
+      "names": [
+        "The Bishop Strachan School"
+      ]
+    }
+  ],
+  [
+    "lafayette-college",
+    {
+      "lat": 40.6995,
+      "lng": -75.2098,
+      "names": [
+        "Lafayette College"
+      ]
+    }
+  ],
+  [
+    "webster-university",
+    {
+      "lat": 38.5892,
+      "lng": -90.3457,
+      "names": [
+        "Webster University"
+      ]
+    }
+  ],
+  [
+    "stamford-international-university",
+    {
+      "lat": 13.735292,
+      "lng": 100.661484,
+      "names": [
+        "Stamford International University"
+      ]
+    }
+  ],
+  [
+    "asia-pacific-international-university",
+    {
+      "lat": 14.704152,
+      "lng": 101.209592,
+      "names": [
+        "Asia-Pacific International University"
+      ]
+    }
+  ],
+  [
+    "yale-national-university-of-singapore",
+    {
+      "lat": 1.30708,
+      "lng": 103.77195,
+      "names": [
+        "Yale-National University of Singapore"
+      ]
+    }
+  ],
+  [
+    "thammasat-university",
+    {
+      "lat": 13.7543,
+      "lng": 100.4874,
+      "names": [
+        "Thammasat University"
+      ]
+    }
+  ],
+  [
+    "annie-wright-school",
+    {
+      "lat": 47.268669,
+      "lng": -122.459469,
+      "names": [
+        "Annie Wright School"
+      ]
+    }
+  ],
+  [
+    "hollins-university",
+    {
+      "lat": 37.3412463,
+      "lng": -79.9430952,
+      "names": [
+        "Hollins University"
+      ]
+    }
+  ],
+  [
+    "babson-college",
+    {
+      "lat": 42.2923,
+      "lng": -71.2567,
+      "names": [
+        "Babson College"
+      ]
+    }
+  ],
+  [
+    "asian-university-for-women",
+    {
+      "lat": 22.3683,
+      "lng": 91.8159,
+      "names": [
+        "Asian University for Women"
+      ]
+    }
+  ],
+  [
+    "westminster",
+    {
+      "lat": 39.836333,
+      "lng": -105.037424,
+      "names": [
+        "Westminster"
+      ]
+    }
+  ],
+  [
+    "assumption-university",
+    {
+      "lat": 42.2954,
+      "lng": -83.0614,
+      "names": [
+        "Assumption University"
+      ]
+    }
+  ],
+  [
+    "culver-university",
+    {
+      "lat": 40.1300621,
+      "lng": -91.52667999,
+      "names": [
+        "Culver University"
+      ]
+    }
+  ],
+  [
+    "union-university",
+    {
+      "lat": 42.8179321,
+      "lng": -73.9294347,
+      "names": [
+        "Union University"
+      ]
+    }
+  ],
+  [
+    "st-joseph-s-institution",
+    {
+      "lat": 1.2917,
+      "lng": 103.8506,
+      "names": [
+        "St. Joseph’s Institution"
+      ]
+    }
+  ],
+  [
+    "united-world-college-changshu",
+    {
+      "lat": 31.64615,
+      "lng": 120.74221,
+      "names": [
+        "United World College Changshu"
+      ]
+    }
+  ],
+  [
+    "southern-university-of-science-and-technology",
+    {
+      "lat": 22.600556,
+      "lng": 113.994722,
+      "names": [
+        "Southern University of Science and Technology"
+      ]
+    }
+  ],
+  [
+    "chiang-mai-university",
+    {
+      "lat": 18.80259,
+      "lng": 98.95156,
+      "names": [
+        "Chiang Mai University"
+      ]
+    }
+  ],
+  [
+    "chulalongkorn-university",
+    {
+      "lat": 13.7383,
+      "lng": 100.5312,
+      "names": [
+        "Chulalongkorn University"
+      ]
+    }
+  ],
+  [
+    "battambang-teacher-education-college",
+    {
+      "lat": 13.0954,
+      "lng": 103.2081,
+      "names": [
+        "Battambang Teacher Education College"
+      ]
+    }
+  ],
+  [
+    "royal-university-of-phnom-penh",
+    {
+      "lat": 11.569,
+      "lng": 104.8914,
+      "names": [
+        "Royal University of Phnom Penh"
+      ]
+    }
+  ],
+  [
+    "university-of-health-sciences",
+    {
+      "lat": 11.54396,
+      "lng": 104.90648,
+      "names": [
+        "University of Health Sciences",
+        "University of Health and Science"
+      ]
+    }
+  ],
+  [
+    "institute-of-foreign-languages",
+    {
+      "lat": 11.56885,
+      "lng": 104.89296,
+      "names": [
+        "Institute of Foreign Languages"
+      ]
+    }
+  ],
+  [
+    "cambodia-academy-of-digital-technology",
+    {
+      "lat": 11.65432,
+      "lng": 104.91149,
+      "names": [
+        "Cambodia Academy of Digital Technology"
+      ]
+    }
+  ],
+  [
+    "national-polytechnic-institute-of-angkor",
+    {
+      "lat": 13.3687,
+      "lng": 103.8596,
+      "names": [
+        "National Polytechnic Institute of Angkor"
+      ]
+    }
+  ],
+  [
+    "institute-of-technology-of-cambodia",
+    {
+      "lat": 11.5702,
+      "lng": 104.8974,
+      "names": [
+        "Institute of Technology of Cambodia"
+      ]
+    }
+  ],
+  [
+    "national-university-of-battambang",
+    {
+      "lat": 13.08538,
+      "lng": 103.22001,
+      "names": [
+        "National University of Battambang"
+      ]
+    }
+  ],
+  [
+    "limkokwing-university",
+    {
+      "lat": 11.56236,
+      "lng": 104.912369,
+      "names": [
+        "Limkokwing University"
+      ]
+    }
+  ],
+  [
+    "angkor-university",
+    {
+      "lat": 13.35071,
+      "lng": 103.892,
+      "names": [
+        "Angkor University"
+      ]
+    }
+  ],
+  [
+    "norton",
+    {
+      "lat": 11.58739,
+      "lng": 104.93052,
+      "names": [
+        "Norton University"
+      ]
+    }
+  ],
+  [
+    "university-of-south-east-asia",
+    {
+      "lat": 13.3537,
+      "lng": 103.8624,
+      "names": [
+        "University of South-East Asia"
+      ]
+    }
+  ],
+  [
+    "pannasastra-university-of-cambodia",
+    {
+      "lat": 13.361706,
+      "lng": 103.859038,
+      "names": [
+        "Pannasastra University of Cambodia"
+      ]
+    }
+  ],
+  [
+    "university-of-technology-and-entrepreneurship",
+    {
+      "lat": 11.583,
+      "lng": 104.8975,
+      "names": [
+        "University of Technology and Entrepreneurship"
+      ]
+    }
+  ],
+  [
+    "national-university-of-management",
+    {
+      "lat": 11.5756,
+      "lng": 104.9211,
+      "names": [
+        "National University of Management"
+      ]
+    }
+  ],
+  [
+    "paragon-international-university",
+    {
+      "lat": 11.5721,
+      "lng": 104.8911,
+      "names": [
+        "Paragon International University"
+      ]
+    }
+  ]
+]
